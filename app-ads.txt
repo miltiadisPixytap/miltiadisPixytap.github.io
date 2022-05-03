@@ -1,4 +1,6 @@
 facebook.com, 468017031769621, RESELLER, c3e20eee3f780d68
+facebook.com, 1399718463837384, RESELLER, c3e20eee3f780d68
+facebook.com, 717787412683462, RESELLER, c3e20eee3f780d68
 
 /app-ads.txt
 /ads.txt
